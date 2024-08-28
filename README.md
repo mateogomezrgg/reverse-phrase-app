@@ -18,3 +18,7 @@
 🖥️ Captura de Pantalla
 
 ![Screenshot of this app working](./src/images/Screenshot.png)
+
+<hr>
+
+¡Gracias por visitar mi repositorio! 😊
