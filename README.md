@@ -1,8 +1,20 @@
-# React + Vite
+# 🌀 React Reverse Phrase App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido a la **Reverse Phrase App**! Esta aplicación permite a los usuarios ingresar una frase y obtenerla al revés. También proporciona la opción de copiar el resultado invertido al portapapeles.
 
-Currently, two official plugins are available:
+## 🌟 Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Inversión de frases al instante.
+- Copia al portapapeles con un solo clic.
+- Diseño limpio y responsivo.
+
+🛠️ Construido con
+
+<li> React - Biblioteca de JavaScript para construir interfaces de usuario.
+ 
+<br>
+<br>
+
+🖥️ Captura de Pantalla
+
+![Screenshot of this app working](./src/images/Screenshot.png)
